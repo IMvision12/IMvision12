@@ -58,7 +58,7 @@
 </p>
 
 <br>
-<h2> Blogs 📚 </h2>
+<h2 align="center"> Blogs 📚 </h2>
 <ul>
   <li>
     <a href="https://keras.io/examples/vision/yolov8/">YOLOv8 Example on Keras.io 🦸‍♂️</a>
