@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IMvision</h1>
+<h1 align="center">Hi 👋, I'm Gitesh</h1>
 <h2 align="center">👀 I’m interested in Machine Learning/Artificial Intelligence </h2>
 
 <br>
