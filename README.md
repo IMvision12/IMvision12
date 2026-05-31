@@ -6,34 +6,10 @@
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://imvision12.vercel.app/">
-        <img height="38" src="https://api.iconify.design/mdi/web.svg?color=%23E6EDF3" alt="Portfolio" /><br/>
-        <sub><b>Portfolio</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/gitesh-ch/">
-        <img height="38" src="https://api.iconify.design/mdi/linkedin.svg?color=%23E6EDF3" alt="LinkedIn" /><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.kaggle.com/imvision12">
-        <img height="38" src="https://api.iconify.design/simple-icons/kaggle.svg?color=%23E6EDF3" alt="Kaggle" /><br/>
-        <sub><b>Kaggle</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://twitter.com/gitesh12_">
-        <img height="38" src="https://api.iconify.design/simple-icons/x.svg?color=%23E6EDF3" alt="X" /><br/>
-        <sub><b>X</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imvision12.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitesh-ch/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/imvision12)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gitesh12_)
 
 </div>
 
