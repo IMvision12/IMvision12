@@ -81,68 +81,50 @@ I'm an AI/ML engineer who builds **open-source libraries that make modern models
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tools & Technology
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
 <div align="center">
+
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>🧠 Deep Learning Frameworks</b></summary>
-<br>
-<div align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img alt="JAX" src="https://img.shields.io/badge/JAX-8A2BE2?style=for-the-badge&logo=google&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>🤗 LLMs · RAG · Computer Vision</b></summary>
-<br>
-<div align="center">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img alt="Diffusers" src="https://img.shields.io/badge/Diffusers-FF6F61?style=for-the-badge&logoColor=white" />
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>⚡ GPU & Scientific Computing</b></summary>
-<br>
-<div align="center">
-  <img alt="Triton" src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logoColor=white" />
+  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="bitsandbytes" src="https://img.shields.io/badge/bitsandbytes-6E40C9?style=for-the-badge&logoColor=white" />
+  <img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br>
-<div align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="PIL" src="https://img.shields.io/badge/PIL-4B8BBE?style=for-the-badge&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logoColor=white" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logoColor=white" />
+  <img alt="API Gateway" src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logoColor=white" />
+  <img alt="Cognito" src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logoColor=white" />
+  <img alt="AppSync" src="https://img.shields.io/badge/AppSync-E7157B?style=for-the-badge&logoColor=white" />
+  <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />
+  <img alt="Secrets Manager" src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-4053D6?style=for-the-badge&logoColor=white" />
+  <img alt="MLOps" src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logoColor=white" />
+  <img alt="LLMOps" src="https://img.shields.io/badge/LLMOps-6F42C1?style=for-the-badge&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="Weights & Biases" src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
 </div>
-</details>
 
 ---
 
