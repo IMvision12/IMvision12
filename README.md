@@ -1,15 +1,39 @@
-# Hi there, I'm Gitesh 👋
+<h1 align="center">Hi there, I'm Gitesh 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Author+of+KerasFormers+%26+Trinix;2%C3%97+Kaggle+Expert+%7C+Open-Source+Contributor+%F0%9F%A4%97;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+research+into+open-source+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Author+of+KerasFormers+%26+Trinix;2%C3%97+Kaggle+Expert+%7C+Open-Source+Contributor+%F0%9F%A4%97;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+research+into+open-source+ML" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge&logoColor=white)](https://imvision12.vercel.app/)
-  [![X](https://img.shields.io/badge/𝕏_Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gitesh12_)
-  [![Kaggle](https://img.shields.io/badge/🏅_Kaggle-2×_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/imvision12)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gitesh-ch/)
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://imvision12.vercel.app/">
+        <img height="38" src="https://api.iconify.design/mdi/web.svg?color=%23E6EDF3" alt="Portfolio" /><br/>
+        <sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/gitesh-ch/">
+        <img height="38" src="https://api.iconify.design/mdi/linkedin.svg?color=%23E6EDF3" alt="LinkedIn" /><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.kaggle.com/imvision12">
+        <img height="38" src="https://api.iconify.design/simple-icons/kaggle.svg?color=%23E6EDF3" alt="Kaggle" /><br/>
+        <sub><b>Kaggle</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://twitter.com/gitesh12_">
+        <img height="38" src="https://api.iconify.design/simple-icons/x.svg?color=%23E6EDF3" alt="X" /><br/>
+        <sub><b>X</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
