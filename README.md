@@ -174,7 +174,7 @@ A faithful **Keras / TensorFlow** implementation of the AdEMAMix optimizer, a mi
 #### [💻 InferML](https://github.com/IMvision12/InferML)
 **Run Hugging Face Models Locally**
 
-<img src="https://img.shields.io/github/stars/IMvision12/localml-app?style=flat-square&logo=github&label=Stars&color=6366F1" />
+<img src="https://img.shields.io/github/stars/IMvision12/InferML?style=flat-square&logo=github&label=Stars&color=6366F1" />
 <img src="https://img.shields.io/badge/🤗_Local-FFD21E?style=flat-square&logoColor=black" />
 
 Browse the **Hugging Face Hub**, download with a click, and run **detection, segmentation, depth, OCR, SAM, VLMs, ASR, TTS & diffusion** fully locally. Your data never leaves your GPU.
