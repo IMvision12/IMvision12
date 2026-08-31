@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🤖 **AI/ML Engineer**, building & shipping models
-🧩 **Author of** [KerasFormers](https://github.com/IMvision12/KerasFormers) & [Trinix](https://github.com/IMvision12/trinix)
+🧩 **Author of** [ZeroModels](https://github.com/IMvision12/ZeroModels) & [Trinix](https://github.com/IMvision12/trinix)
 🏅 **2× Kaggle Expert**
 🤗 **Open-source contributor**, Hugging Face & Keras
 🌍 **Based in:** Fullerton, USA
@@ -112,7 +112,7 @@ I'm an AI/ML engineer who builds **open-source libraries that make modern models
 <tr>
 <td width="50%" valign="top">
 
-#### [📦 KerasFormers](https://github.com/IMvision12/KerasFormers)
+#### [📦 ZeroModels](https://github.com/IMvision12/ZeroModels)
 **Pretrained Models for Keras 3**
 
 <img src="https://img.shields.io/github/stars/IMvision12/KerasFormers?style=flat-square&logo=github&label=Stars&color=6366F1" />
