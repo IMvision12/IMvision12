@@ -28,7 +28,7 @@
 I'm an AI/ML engineer who builds **open-source libraries that make modern models easy to use**, from pretrained **Keras 3** model collections to **Triton-accelerated** PyTorch layers. I work across **computer vision, LLMs, RAG, and agentic AI**, and I love turning research into clean, reusable code.
 
 ### ✨ Highlights
-- 📦 Author of **KerasFormers**, Keras 3 pretrained models across Vision, LLM, VLM, Depth & Speech
+- 📦 Author of **ZeroModels**, Keras 3 pretrained models across Vision, LLM, VLM, Depth & Speech
 - ⚡ Built **Trinix**, Triton-accelerated PyTorch layers with automatic fallback optimization
 - 🏅 **2× Kaggle Expert**
 - 🤗 Contributor to **Hugging Face** (Transformers, Diffusers) and the **Keras** ecosystem (`keras-cv`, `keras-hub`)
